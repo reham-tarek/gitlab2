@@ -15,3 +15,14 @@ git push origin dev
 how delete branch 
 git branch -d dev
 git branch -D test
+
+
+how list tags ?
+git tag 
+
+how delete tag remotly ?
+
+ git push origin -- delete v1.4 
+
+how delete local tag?
+-- delete  git tag -d v1.4 
